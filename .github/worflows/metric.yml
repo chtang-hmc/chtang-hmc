@@ -20,5 +20,5 @@ jobs:
           # Example configuration
           config: |
             template: classic
-            user: YOUR_USERNAME
+            user: chtang-hmc
             base: header, activity, community, repositories, metadata
