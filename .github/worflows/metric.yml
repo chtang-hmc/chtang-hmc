@@ -1,4 +1,6 @@
-name: Metrics
+name: Metrics embed
+
+uses: lowlighter/metrics@v3.34
 
 on:
   schedule:
