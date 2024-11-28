@@ -34,7 +34,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 180
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 500
           plugin_languages_threshold: 0%
           plugin_languages_details: lines
           
@@ -42,3 +42,7 @@ jobs:
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 100
           plugin_lines_sections: base
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
