@@ -31,8 +31,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -220,16 +220,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.05mb of code in 566 edited files across 196 commits over last 91 days</small>
+                <small>estimation from 678kb of code in 547 edited files across 181 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.67032295216455" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="374.67032295216455" y="0" width="42.23189211788464" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.90221507004924" y="0" width="40.831223179351255" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.7334382494005" y="0" width="2.26656175059952" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.08840390348104" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="343.08840390348104" y="0" width="63.72742116935143" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="406.81582507283247" y="0" width="49.646633701612394" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.4624587744448" y="0" width="3.5375412255551506" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -241,9 +241,22 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>8.81k lines</div>
+                                <div>6.67k lines</div>
                             </small>
                         </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>2.07k lines</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -253,19 +266,6 @@
                             </div>
                             <small>
                                 <div>2.83k lines</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>2.78k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -824,6 +824,7 @@
                                 </g>
                                 <g transform="translate(750, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -832,7 +833,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 16:52:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 16:50:03 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
