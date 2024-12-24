@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chengyi Tang</h1>
 <h3 align="center">CS/Physics Student @ Harvey Mudd College</h3>
-<h4> I'm interested in numerical algorithms, modelling, optimization, machine learning, data analysis... </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chtang-hmc&label=Profile%20views&color=0e75b6&style=flat" alt="chtang-hmc" /> </p>
+I'm interested in numerical algorithms, modelling, optimization, machine learning, data analysis...
+
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=chtang-hmc&label=Profile%20views&color=0e75b6&style=flat" alt="chtang-hmc" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
