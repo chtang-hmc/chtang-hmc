@@ -220,31 +220,31 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.02mb of code in 680 edited files across 137 commits over last 92 days</small>
+                <small>estimation from 908kb of code in 368 edited files across 121 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.0895458842828" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="194.0895458842828" y="0" width="172.65876519093146" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="366.7483110752143" y="0" width="45.64373235159689" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="412.39204342681114" y="0" width="20.524703068552505" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="432.91674649536367" y="0" width="18.744228854786904" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="451.6609753501506" y="0" width="8.064263666359874" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.72523901651044" y="0" width="0.27476098348954714" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.92191797339274" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="197.92191797339274" y="0" width="156.8214833230939" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="354.7434012964866" y="0" width="50.682722507076704" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.4261238035633" y="0" width="23.527844605340974" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="428.9539684089043" y="0" width="21.486854268702306" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.4408226776066" y="0" width="9.244213753782375" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.68503643138894" y="0" width="0.3149635686110138" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                C++
                             </div>
                             <small>
-                                <div>4.33k lines</div>
+                                <div>9.55k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.30k lines</div>
+                                <div>2.21k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -285,12 +285,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>9.55k lines</div>
+                                <div>3.68k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -427,6 +427,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -435,7 +436,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2025, 16:43:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2025, 16:42:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
