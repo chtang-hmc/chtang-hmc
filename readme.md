@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chengyi Tang</h1>
 <h3 align="center">CS/Physics Student @ Harvey Mudd College</h3>
 
-I'm interested in numerical analysis, modelling, optimization, algorithms, machine learning, data analysis...
+I'm interested in numerical analysis, modelling, optimization, algorithms, machine learning, computing applications in science, data analysis...
+
+Almost a music major.
 
 # <p align="left"> <img src="https://komarev.com/ghpvc/?username=chtang-hmc&label=Profile%20views&color=0e75b6&style=flat" alt="chtang-hmc" /> </p>
 
