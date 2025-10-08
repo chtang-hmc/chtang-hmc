@@ -220,15 +220,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 256kb of code in 66 edited files across 30 commits over last 29 days</small>
+                <small>estimation from 267kb of code in 73 edited files across 36 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.87875512717153" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="353.87875512717153" y="0" width="101.62430567244571" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.5030607996173" y="0" width="4.496939200382711" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.25686115064036" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="356.25686115064036" y="0" width="99.44339974249509" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.70026089313546" y="0" width="4.299739106864538" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -240,7 +240,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>2.04k lines</div>
+                                <div>2.21k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -264,7 +264,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.53k lines</div>
+                                <div>1.57k lines</div>
                             </small>
                         </div>
                     </section>
@@ -706,6 +706,7 @@
                                 <g transform="translate(600, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -714,7 +715,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2025, 17:48:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2025, 17:48:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
